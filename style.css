@@ -1,0 +1,19 @@
+
+
+.navbar-brand img{
+    height: 2.2em;
+}
+.tag{
+    position: absolute;
+    font-size: 2rem;
+  margin-top: 12%;
+}
+.img1{
+    position: relative;
+}
+.tag1{
+    position: absolute;
+    margin-top: 12%;
+    width: 50%;
+    margin-left: 10%;
+}
